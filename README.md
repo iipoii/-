@@ -7,4 +7,4 @@ import matplotlib.pyplot as plt
 import cv2 as cv
 import numpy as np
 ```
-代码使用```cv.imread()```函数读取灰度图像,保存为一个```ndarray```数组,数组元素为0~255的灰度值,在此基础上对灰度进行运算。计算完成后.使用```plt.imshow()```函数显示运算后的灰度图像,与原图进行对比
+代码使用```cv.imread()```函数读取灰度图像,保存为一个```ndarray```数组,数组元素为0~255的灰度值,在此基础上对灰度进行运算。计算完成后.使用```plt.imshow()```函数显示运算后的灰度图像,与原图进行对比。
